@@ -1,2 +1,2 @@
 # MATLAB_digital_calculator
-A digital calculator was made using MATLAB. It is capable of receiving a pair of numbers in four different numeric systems and return any of the four basic operations (addition, subtraction, multiplication, and division), as requested by the user. Different functions were used, implemented in a GUIDE, to handle the program easily and intuitively.  
+To run the calculator you need to save all files in the same folder and open 'calculadora.FIG'. The interface is intuitive so you just need enter two number, choose their numeric system, and then select the operation that you want.
